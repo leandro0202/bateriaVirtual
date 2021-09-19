@@ -1,6 +1,11 @@
 # Bateria virtual
 
 Esse projeto é uma pagina simples, onde são capturados eventos do teclado que repooduz sons de bateria.
+aprendizado:
+
+* Adicionando atributo classes no html com javascript.
+* captura do teclado com eventos em javascript.
+* removendo atributos de classes no html com javascript
 
 link para conferir:
 https://leandro0202.github.io/bateriaVirtual/
